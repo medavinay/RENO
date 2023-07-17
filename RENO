@@ -1,0 +1,269 @@
+	<!DOCTYPE html>
+<head>
+<title>RENO</title>
+<meta name="viewport" content="width=device-width, initial-scale=1"><meta>
+<meta name='viewport' content='width=device-width, initial-scale=1'></meta>
+<meta name="viewport" content="width=device-width, initial-scale=1"></meta>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet"> 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"></link>
+<link rel="stylesheet" type="text/css" href="css/style.css"></style>
+
+
+
+<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+<style>
+
+</style>
+</head>
+
+
+<body>
+
+<div class="top">
+<div class="header">
+<ul class="header phone">																																																																					
+<i>+01) 123 456 789</i>
+
+<i>abcd@gmail.com</i>
+</ul>
+</div>
+<div class="social">
+<ul class="social media">
+
+<i class="fa fa-facebook-square" style="font-size:36px"></i>
+<i class="material-icons" style="font-size:36px">cloud</i>
+<i class="fa fa-twitter" style="font-size:36px"></i>
+<i class="fa fa-instagram" style="font-size:36px"></i>
+
+</ul>
+</div>
+</ul>
+</div>
+
+<div class="RENO">
+<div class="RENO_temple">
+<img src="images/Reno.png"></img>
+
+</div>
+
+<div class="Home">
+ <ul class="Home_option">   
+<i> Home</i>
+<i>About</i>
+<i>Service</i>
+<i>Team</i>
+<i>Portfolio</i>
+<i>Blog</i>
+<i>Page</i>
+</ul>
+
+<button class="fisrt_button">GET A QUOTE</button>
+</div>
+
+</div>
+
+
+<div class="welocme">
+<div class="welcome-you"> 
+<p>welcome</p>
+<h2>RENO CONSTRUCTION</h2>
+<P>Lorwm ipsum dolor sit amet.consectetur adipsicing elite.pariatur excepturi labore atque ea afficia dwlwcts minima tenetur placed earum omins at architecta quilbudam<P>
+</div>
+<div class="ladder"> 
+<img src="images/ladder.png"></img>
+
+</div>
+</div>
+
+
+<div class="ABOUT">
+<div class="ABOUT_US"> 
+<h2>ABOUT US</h2>
+<h3>Construction More Than 30 Years</h3>
+<P>Lorwm ipsum dolor sit amet.consectetur adipsicing elite.pariatur excepturi labore atque ea afficia dwlwcts minima tenetur placed earum omins at architecta quilbudam<P>
+<button class="ABOUT_US">READ MORE</button>
+</div>
+<div class="engineer_img">
+<img src="images/engineer.png"></img>
+</div>
+</div>
+
+<div class="OUR SERVICES">
+<div class="OUR">
+<h3 class="ourss">OUR SERVICES</h3>
+<br>
+<p CLASS="OURS">WE ARE EXPERT IN</p>
+<br></br>
+</div>
+</div>
+
+<div class="four group photo">
+<div class="group1">
+<img src="images/crop.png"></img>
+<button class="groups1">READ MORE</button>
+</div>
+
+<div class="group2">
+<img src="images/Eco.png"></img>
+<button class="groups2">READ MORE</button>
+</div>
+
+
+<div class="group3">
+<img src="images/plus.png"></img>
+<button class="groups2">READ MORE</button>
+</div>
+</div>
+
+<div class="friends">
+<div class="friend">
+<img src="images/friends.png"></img>
+<h3 class="fri">Build Your Dream Home</h3>
+<p class="Friend">Come To The World Since 1809</p>
+<button class="friend1">VIEW MORE</button>
+</div>
+</div>
+
+<div class="Pricing ">
+<h4>Pricing Plane</h4>
+<p class="pricing">SOME OF OUR </p>
+
+</div>
+
+<div class="project">
+<img src="images/project.png"></img>
+</div>
+
+<div class="our team">
+<div class="Team">
+<h2 class="team">OUR team</h2>
+<p class="t">OUR EXPERT TEAM</p>
+ </div>
+
+<div class="civil_engineer">
+<div class="women_civil">
+<img src="images/woman.png"></img>
+</div>
+</div>
+
+<div class="leader">
+<div class="lead">
+<img src="images/leader.png"></img>
+</div>
+</div>
+
+
+<div class="leader">
+<div class="asst">
+<img src="images/asst	.png"></img>
+</div>
+</div>
+</div>
+
+<div class="FAQ">
+<h2 class="Q">FAQ</h2>
+<p class="AQ">our strenth</p>
+
+</div>
+
+<div class="down_FQA">
+<div class="OUR_COMPANY_MISSION">
+
+<button class="our_company">Our Company  Mission</button>
+<p class="OUR_COMPANY_MISSION">Lorem Ipsum is simply dummy text of the printing and type-setting industry. Lorem Ipsum has been the industry' standard dummy textever since the 1500s, when an unknown printer took a galley of typeand scrambled it to a galley of typeand scrambled it to </p>
+
+</div>
+
+<div class="Creative_and_powerful">
+
+<button class="Creative">Creative and powerful</button>
+<p class="powerful">Lorem Ipsum is simply dummy text of the printing and type-setting industry. Lorem Ipsum has been the industry' standard dummy textever since the 1500s, when an unknown printer took a galley of typeand scrambled it to a galley of typeand scrambled it to </p>
+
+</div>
+
+<div class="Honest_and_dependable">
+
+<button class="Honest">Honest and dependable</button>
+<p class="dependable">Lorem Ipsum is simply dummy text of the printing and type-setting industry. Lorem Ipsum has been the industry' standard dummy textever since the 1500s, when an unknown printer took a galley of typeand scrambled it to a galley of typeand scrambled it to </p>
+
+
+</div>
+
+
+<div class="ADVANCE_TECH">
+<img src="images/ADC.png"></img>
+
+</div>
+
+</div>
+
+<div class="RECENT_NEWS">
+<h2 class="RECENT">RECENT NEWS</h2>
+<p class="NEWS">FROM THE BLOG</p>
+
+</div>
+
+<div class="Down Recent">
+<div class="city">
+<img src="images/city.png"></img>
+<h2 class="cityA">Sandford improvements</h2>
+<p class="city1">Lorem ipsum issimply dummy text of the prin and type setting industry.Lorem Ipsum has</p>
+<h3 class="city3">Read More</h3>
+</div>
+
+
+<div class="under">
+<img src="images/under.png"></img>
+<h2 class="under1">Sandford improvements</h2>
+<p class="under2">Lorem ipsum issimply dummy text of the prin and type setting industry.Lorem Ipsum has</p>
+<h3 class="under3">Read More</h3>
+</div>
+
+
+<div class="machine">
+<img src="images/machine.png"></img>
+<h2 class="machine1">Sandford improvements</h2>
+<p class="machine2">Lorem ipsum issimply dummy text of the prin and type setting industry.Lorem Ipsum has</p>
+<h3 class="machine3">Read More</h3>
+</div>
+</div>
+
+<div class="Ethen_mark">
+<img src="images/Ethen.png"></img>
+</div>
+
+<div class="Our_client">
+<h2 class="client1">OUR CLIENT</h2>
+<h3 class="client">HAPPY CLIENT</h3>
+</div>
+<div class="Realestate">
+<img src="images/Realestate.png"></img>
+</div>
+
+
+<div class="call_box">
+<div class="newletter">
+<img src="images/headset.png"></img>
+<h1 class="call1">CAll US</h1>
+<p class="call2">+1 123-456-7890</p>
+</div>
+
+<div class="Newsletter">
+<img src="images/Message.png"></img>
+<h5 class="News1">NewsLetter</h5>
+<h6 class="News2">Scrambled it to make a type book</h6>
+</div>
+
+
+</div>
+</body>
